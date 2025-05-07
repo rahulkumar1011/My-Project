@@ -3,7 +3,7 @@ import Navbar from '../components/Navbar';
 function Settings() {
   return (
     <>
-      <Navbar />
+      {/* <Navbar /> */}
       <h2>Settings</h2>
     </>
   );

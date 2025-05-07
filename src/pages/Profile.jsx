@@ -3,7 +3,7 @@ import Navbar from '../components/Navbar';
 function Profile() {
   return (
     <>
-      <Navbar />
+      {/* <Navbar /> */}
       <h2>Profile Page</h2>
     </>
   );
